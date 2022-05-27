@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewSonger/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MatthewSonger/note-taker/issues"
+  },
+  "homepage": "https://github.com/MatthewSonger/note-taker#readme"
 }
