@@ -4,11 +4,11 @@ const fs = require('fs');
 
 const uuid = require('../lib/uuid');
 
-app.get('api/notes', (req, res) => {
+app.get('/api/notes', (req, res) => {
     let noteString = fs.readFileSync(`./db/db.json`)
     
     notes = JSON.parse(noteString) || [];
-    console.log(`${req.method} request received to get notes`);
+    console.info(`${req.method} request received to get notes`);
     res.json(notes);
 });
 
