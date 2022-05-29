@@ -2,6 +2,8 @@
   [License Link](http://choosealicense.com/licenses)
 
   # Note Taker
+<img width="1440" alt="Screen Shot 2022-05-29 at 1 16 00 PM" src="https://user-images.githubusercontent.com/94155400/170883068-e8c2189d-ae5d-40b4-86f8-33487c289f00.png">
+
 
 
   ## Table of Contents
